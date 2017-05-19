@@ -1,0 +1,21 @@
+body{
+    padding:10px;
+    background: #B7F4B7;
+
+}
+
+.userContainer {
+    background: #BFB1AC;
+    margin: 5px;
+    padding:10px;
+    border: 1px #aaa solid;
+}
+.userPic {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+a{
+    padding:10px;
+}
+

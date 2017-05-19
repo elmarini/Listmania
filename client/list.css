@@ -1,0 +1,67 @@
+body {
+    padding:20px;
+    font-family: 'futura';
+    background: #B7F4B7;
+}
+
+a {
+    font-size: 10px;
+}
+.userPic{
+    vertical-align: middle;
+}
+
+.itemContainer {
+    margin-top: 10px;
+    padding:10px;
+    vertical-align: middle;
+    border: 1px #aaa solid;
+    background: #BFB1AC;
+    border-radius: 2px;
+}
+.itemLabel {
+    padding-right: 20px;
+}
+.itemOwner{
+    float:right;
+}
+
+.itemState {
+    float:left;
+    padding-right: 30px;
+}
+
+input[type=checkbox] {
+    width:20px;
+     height:20px;
+     }
+
+.loginLink {
+    float:right;
+}
+
+.usersLink {
+    float: right;
+    padding-right: 15px;
+}
+
+.listName {
+    padding-left: 10px;
+    margin-top:20px;
+    display: inline-block;
+}
+
+.itemPic{
+    padding-left: 10px;
+    vertical-align: middle;
+}
+
+.itemRemove {
+    outline:none;
+    border: none;
+    background: transparent;
+}
+
+.itemRemove:hover {
+    color: red;
+}
